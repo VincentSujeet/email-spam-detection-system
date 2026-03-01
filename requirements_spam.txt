@@ -1,0 +1,9 @@
+Tech Stack
+
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
+- NLTK
+- Matplotlib / Seaborn
+
